@@ -1,4 +1,8 @@
-<h1 align="center">Hello There!! I am Gabriel Nasol</h1>
+<h1 align="left">Hello There!!<img 
+src="./assets/lightsaber_blue.gif" 
+alt="Hello There GIF" 
+style="width: 1em; vertical-align: middle;">I am Gabriel Nasol </h1>
+
 <h3 align="center">Welcome to my GitHub profile, where I combine passion for technology with a focus on continuous improvement.</h3>
 
 <h3 align="left">Connect with me:</h3>
