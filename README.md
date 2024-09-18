@@ -36,7 +36,7 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
 <br>
 <br>
 <p align="center">
-  <img src="./assets/Training.gif" width="40"> <b><i>The more I read, the more I acquire, the more certain I am that I know nothing."</b>
+  <img src="./assets/Training.gif" width="40"> <b><i>"The more I read, the more I acquire, the more certain I am that I know nothing."</b>
   <em><i> - Voltaire</em></i>  
   <img src="./assets/Quote.gif" width="40">
 </p>
