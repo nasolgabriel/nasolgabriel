@@ -74,15 +74,15 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
 <br>
 <h2 align="left">Connect with me:</h2>
 <div align="center">
-  <a href="https://github.com/https://github.com/nasolgabriel" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-  <a href="https://www.facebook.com/https://www.facebook.com/gabriel.nasol/" target="_blank">
+  <a href="https://github.com/nasolgabriel" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" /></a>
+  <a href="https://www.facebook.com/gabriel.nasol/" target="_blank">
   <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /></a>
-  <a href="https://instagram.com/https://www.instagram.com/gabb_gabbo/" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
-  <a href="https://www.kaggle.com/https://www.kaggle.com/gabrielnasol" target="_blank">
+  <a href="https://www.instagram.com/gabb_gabbo/" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=Pink alt=instagram style="margin-bottom: 5px;" /></a>
+  <a href="https://www.kaggle.com/gabrielnasol" target="_blank">
   <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabriel-nasol-347520307/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-nasol-347520307/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>  
 </div>  
 <p align="left"></p>
