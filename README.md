@@ -72,7 +72,7 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
 </p>
 <br>
 <br>
-<h2 align="left">Connect me:</h2>
+<h2 align="left">Connect with me:</h2>
 <div align="center">
   <a href="https://github.com/https://github.com/nasolgabriel" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
