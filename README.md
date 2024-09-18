@@ -33,13 +33,14 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasolgabriel&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
   </div>
 </div>
-
+<br>
+<br>
 <p align="center">
   <img src="./assets/Training.gif" width="40"> <b><i>The more I read, the more I acquire, the more certain I am that I know nothing."</b>
   <em><i> - Voltaire</em></i>  
   <img src="./assets/Quote.gif" width="40">
 </p>
-
+<br>
 <h3 align="left">🚀 Languages and Tools I Use:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -69,8 +70,9 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
-
-<h2 align="left">Connect with me:</h2>
+<br>
+<br>
+<h2 align="left">Connect me:</h2>
 <div align="center">
   <a href="https://github.com/https://github.com/nasolgabriel" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
