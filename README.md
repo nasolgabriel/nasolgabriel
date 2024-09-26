@@ -13,13 +13,6 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-   <style>
-    @media (max-width: 600px) {
-      div {
-        font-size: 12px;
-      }
-    }
-  </style>
     <p>
       ✔ Specializes in <em><strong>Machine Learning</strong></em> and <em><strong>Data Analysis</strong></em>🤖 <br>
       ✔ I’m currently Working on <strong>Automatic Bacteria Colony Counter</strong> using <strong>YOLOv8</strong> 👁<br>
@@ -38,13 +31,7 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
     <img width="250px" 
       alt="MUL" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasolgabriel&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-  </div><style>
-  @media (max-width: 600px) {
-    div {
-      align-items: center !important;
-    }
-  }
-  </style>
+  </div>
 </div>
 <br>
 <br>
