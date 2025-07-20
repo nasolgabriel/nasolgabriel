@@ -5,10 +5,15 @@ style="width: 1em; vertical-align: middle;">I'm Gabriel Nasol </h1>
 
 <p align="center">
   <em>
-    A <b>final year</b> undergraduate student from 
-    <a href="https://www.facebook.com/LSPULBCOfficial"><b>Laguna State Polytechnic University</b>, - Los Baños</a>.<br> An aspiring <b>Software Engineer</b> and <b>Entrepreneur </b>.<br>
+    A <b>Computer Science graduate</b> from 
+    <a href="https://www.facebook.com/LSPULBCOfficial"><b>Laguna State Polytechnic University – Los Baños</b></a>.<br>
+    An aspiring <b>Software Engineer</b> and <b>Entrepreneur</b> with a passion for building impactful and scalable tech.<br>
   </em>
 </p>
+
+🎓 Computer Science Graduate | Aspiring Software Engineer & Entrepreneur  
+Graduated from Laguna State Polytechnic University – Los Baños with a strong foundation in intelligent systems, full-stack development, and software engineering. Currently seeking opportunities to grow through real-world projects, innovation, and collaborative development.
+
 <h3 align="left">Welcome to my GitHub profile, where I combine passion for technology with a focus on continuous improvement.</h3><br>
 
 <div style="display: flex; align-items: center;">
