@@ -20,13 +20,12 @@ Graduated from Laguna State Polytechnic University – Los Baños with a strong 
   <div style="flex: 1; padding-right: 20px;">
     <p>
       ✔ Specializes in <em><strong>Machine Learning</strong></em> and <em><strong>Data Analysis</strong></em>🤖 <br>
-      ✔ I’m currently Working on <strong>Automatic Bacteria Colony Counter</strong> using <strong>YOLOv8</strong> 👁<br>
       ✔ I’m currently learning <strong>ReactJS, Pytorch, .NET,</strong> &amp; <strong>NodeJS</strong> 👨🏻‍💻<br>
       ✔ I’m eager to learn new things related to <strong>AI, Software Development, Financial Planning, Investing, and Stock Market</strong>💻💵📈<br>
       ✔ I’m open to receive help on learning <strong>Cyber Security</strong>🤗<br>
       ✔ I love playing video games and solving puzzle and brain twisters</a>🤯<br>
       ✔ I love working out and going to the <strong>Gym</strong>💪🏻<br>
-      ✔ A bit inward at first, but I love making friends and enjoy hanging out with them.🤝<br><br><br>
+      ✔ A bit quiet at first, but I love making friends and enjoy hanging out with them.🤝<br><br><br>
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: self-end;">
