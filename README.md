@@ -21,8 +21,6 @@
   </em>
 </p>
 
-<h3 align="center">✨ Welcome to my GitHub — where passion meets continuous improvement ✨</h3>
-
 <hr/>
 
 <h2 align="center">🧑‍💻 About Me</h2>
